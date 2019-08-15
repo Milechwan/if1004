@@ -1,0 +1,5 @@
+###Homework 2###
+
+2. 
+    1. The Cost of Change is Dead: thanks to cloud-based computing and it's low cost (comparing to have your own data center) per request or per hour of use, the time between development and discovering a problem in production is usually short. As soon as the problem is fixed, the costs aren't a real concern, since it's low enough to handle.
+    2. The mobile computing trend came to "push the agile techniques", and the cloud computing trend combined with CD in terms like the above one, and others like treating every feature as a experiment. It's about keep or remove a feature in the system rapidly and with "no pain" if analyzed feedback about it's use ensures if the feature is important or not. And more, it's about testing ("stressing") the cloud resources as most as possible, since it's relativelly cheap to pay for.
