@@ -15,3 +15,5 @@
     - _Disadvantages:_ To make possible a trunk-based approach, it's necessary to have a regulatory that ensures code review and "owner files" to make sure that uncorrect commits will not be accepted. Even with the use of a software tool to calculate and advice if a change is wrong or worths the effort along with the code review made by developers, an uncorrect commit can be submitted, since there's no official way to prevent this.
 
     Branch-based approach's main disadvantage is merging the conflicts. It can take a few minutes or even days to be resolved if the team is not well aligned enough with their responsabilities and/or tasks. The time theoretically saved with the spread of tasks is spent resolving merge conflicts.
+
+3. Heavily baked and lightly baked images
