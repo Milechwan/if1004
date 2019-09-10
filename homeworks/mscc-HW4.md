@@ -17,3 +17,4 @@
     Branch-based approach's main disadvantage is merging the conflicts. It can take a few minutes or even days to be resolved if the team is not well aligned enough with their responsabilities and/or tasks. The time theoretically saved with the spread of tasks is spent resolving merge conflicts.
 
 3. Heavily baked and lightly baked images
+    - Heavily baked images: If the service doesn't need to be highly scalable or to constantly update all the dependencies like libraries or third-party software, tools, etc., then a heavily baked image should be adequate. Small companies or companies that don't use or need cloud provisioning are some examples on who would prefer heavily baked images. 
